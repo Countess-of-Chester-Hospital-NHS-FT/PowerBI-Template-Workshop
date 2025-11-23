@@ -4,6 +4,7 @@
 *.xlsm
 *.xlsb
 *.csv
+*.zip
 
 ### Windows specific stuff ###
 # Windows thumbnail cache files
@@ -14,4 +15,5 @@ ehthumbs_vista.db
 
 # Exceptions
 !ed_attendance_data_dummy.csv
+!ed_attendance_data_dummy.zip
 !d_Specialty.csv
