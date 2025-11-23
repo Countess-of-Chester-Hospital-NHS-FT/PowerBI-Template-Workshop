@@ -1,0 +1,17 @@
+# Exclude data file types
+*.xls
+*.xlsx
+*.xlsm
+*.xlsb
+*.csv
+
+### Windows specific stuff ###
+# Windows thumbnail cache files
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+
+# Exceptions
+!ed_attendance_data_dummy.csv
+!d_Specialty.csv
