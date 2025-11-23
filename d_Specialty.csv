@@ -1,0 +1,6 @@
+﻿TreatmentFunctionCode,TreatmentSpecialty,ConsultantSpecialty,Division
+110,Trauma & Orthopaedics,Trauma & Orthopaedics,Planned
+320,Cardiology,Cardiology,Urgent
+326,Acute Internal Medicine,Acute Internal Medicine,Urgent
+340,Respiratory Medicine,Respiratory Medicine,Urgent
+0,none,Accident & Emergency,Urgent
