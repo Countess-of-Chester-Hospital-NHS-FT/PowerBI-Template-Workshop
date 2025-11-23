@@ -20,7 +20,7 @@ We have developed a template to:
 * If you discover any issues or bugs please raise as an Issue or in Discussions
 
 ### Data
-The example dashboards and csvs / zips contain fake ED attendance data generated using the Python Faker package. They have no relationship to our real data. No real patient data is contained in this repo.
+The example dashboards and csvs / zips contain fake ED attendance data generated using the Python Faker package. They have no relationship to our real data. No real patient data is contained in this repo. Feel free to use or share this data to populate your own examples or in your own training sessions (although be aware that it will not accurately represent the relationships, trends and patterns seen in real ED data).
 
 ### Acknowledgements
 * This template makes use of the [SPC package](https://github.com/AUS-DOH-Safety-and-Quality/PowerBI-SPC) developed by Western Australia Department of Health
